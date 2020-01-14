@@ -5,5 +5,5 @@ Man mano che li faccio aggiorno il repo.
 
 -------------------------------------------------
 
-### 31 Gennaio 2019 es3 - 12pt
-Grazie a Gianluca
+### 31 Gennaio 2019 es3 - 12pt 
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/31Gennaio2019es3-12pt.c) - Grazie a Gianluca
