@@ -1,5 +1,4 @@
 ## Temi d'esame APA
-### esercizi risolti
+### esercizi di programmazione risolti
 
 Man mano che li faccio aggiorno il repo.
-
