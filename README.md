@@ -3,7 +3,7 @@
 
 Le tracce sono contenute nel file [**Temi d'esame Algoritmi e Programmazione.pdf**](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/Temi%20d'esame%20Algoritmi%20e%20Programmazione.pdf) - consiglio di fare il download perchè a caricarlo su github ci mette una vita.
 
-Man mano che svoglio gli esercizi aggiorno il repo.
+Man mano che svolgo gli esercizi aggiorno il repo.
 
 -------------------------------------------------
 
