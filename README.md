@@ -8,61 +8,59 @@ Le tracce sono contenute nel file [**Temi d'esame Algoritmi e Programmazione.pdf
 ---------------------------------------------
 
 # 06 Febbraio 2014 
+## parte da 12 punti
 
-### es1 - parte da 12 punti
+### es1
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/06Febbraio2014es1-12pt.c) - alessia-miccoli
 
------------------------------------------------
-### es2 - parte da 12 punti
+### es2
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/06Febbraio2014es2-12pt.c) - alessia-miccoli
 
------------------------------------------------
-### es3 - parte da 12 punti
+### es3
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/06Febbraio2014es3-12pt.c) - alessia-miccoli
 
 -----------------------------------------------
 # 24 Febbraio 2014 
+## parte da 12 punti
 
-### es1 - parte da 12 punti 
+### es1 
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/24Febbraio2014es1-12pt.c) - alessia-miccoli
 
------------------------------------------------
-### es2 - parte da 12 punti 
+### es2
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/24Febbraio2014es2-12pt.c) - coccocarmiano
 
------------------------------------------------
-### 24 Febbraio 2014 es3 - parte da 12 punti 
+### es3
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/24Febbraio2014es3-12pt.c) - alessia-miccoli
 
 -----------------------------------------------
 # 27 Giugno 2014 
+## parte da 12 punti
 
-### es1 - parte da 12 punti 
+### es1 
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/27Giugno2014es1-12pt.c) - alessia-miccoli
 
------------------------------------------------
-### es2 - parte da 12 punti 
+### es2
 [Soluzione v1](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/27Giugno2014es2-12pt.c) - alessia-miccoli
 
 [Soluzione v2](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/27Giugno2014es2-12pt%20(v%20alternativa).c) - coccocarmiano
 
------------------------------------------------
 ### es3 - parte da 12 punti 
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/27Giugno2014es3-12pt.c) - coccocarmiano
 
 -------------------------------------------------
 # 03 Settembre 2014
+## parte da 12 punti
 
-### es1 - parte da 12 punti 
+### es1
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/03Settembre2014es1-12pt.c) - alessia-miccoli
 
------------------------------------------------
-### es2 - parte da 12 punti 
+### es2
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/03Settembre2014es2-12pt.c) - alessia-miccoli
 
 -------------------------------------------------
 # 31 Gennaio 2019 
+## parte da 12 punti
 
-### es3 - parte da 12 punti
+### es3
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/31Gennaio2019es3-12pt.c) - Gianluca
 
