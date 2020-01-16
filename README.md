@@ -1,9 +1,9 @@
-## Temi d'esame APA
+# Temi d'esame APA
 ### esercizi di programmazione risolti
 
 Le tracce sono contenute nel file [**Temi d'esame Algoritmi e Programmazione.pdf**](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/Temi%20d'esame%20Algoritmi%20e%20Programmazione.pdf) - consiglio di fare il download perchè a caricarlo su github ci mette una vita.
 
-! WORK IN PROGRESS !
+**! WORK IN PROGRESS !**
 
 # COME COLLABORARE:
 
