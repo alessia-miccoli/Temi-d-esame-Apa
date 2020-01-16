@@ -28,7 +28,8 @@ Man mano che svolgo gli esercizi aggiorno il repo.
 -----------------------------------------------
 ### 24 Febbraio 2014 es2 - parte da 12 punti 
 
-Da fare
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/24Febbraio2014es2-12pt.c)
+- coccocarmiano
 
 -----------------------------------------------
 ### 24 Febbraio 2014 es3 - parte da 12 punti 
@@ -44,6 +45,7 @@ Da fare
 ### 27 Giugno 2014 es2 - parte da 12 punti 
 
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/27Giugno2014es2-12pt.c) - mia soluzione
+[Soluzione Alternativa](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/27Giugno2014es2-12pt%20(v%20alternativa).c) - coccocarmiano
 
 -----------------------------------------------
 ### 27 Giugno 2014 es3 - parte da 12 punti 
