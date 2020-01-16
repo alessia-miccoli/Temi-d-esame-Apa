@@ -50,7 +50,7 @@ Man mano che svolgo gli esercizi aggiorno il repo.
 -----------------------------------------------
 ### 27 Giugno 2014 es3 - parte da 12 punti 
 
-Da fare
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/27Giugno2014es3-12pt.c) - coccocarmiano
 
 -------------------------------------------------
 ### 31 Gennaio 2019 es3 - parte da 12 punti
