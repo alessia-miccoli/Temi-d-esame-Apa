@@ -5,6 +5,12 @@ Le tracce sono contenute nel file [**Temi d'esame Algoritmi e Programmazione.pdf
 
 ! WORK IN PROGRESS !
 
+# COME COLLABORARE:
+
+- Cliccare sul pulsante **create new file**
+- Una volta copiato il codice nell'editor rinominare il file come segue: 'gg/Mese/aaaa' seguito da '-12pt.c' per la parte da 12 punti e '-18pt.c' per la parte da 18 punti. Se c'è già una versione dello stesso tema d'esame inserire prima dell'estensione '-versioneN' dove N è il numero della versione. *Esempio: '30Gennaio2019-12pt-versione2.c'*.
+- Cliccare su **commit new file**
+
 ---------------------------------------------
 
 # 06 Febbraio 2014 
