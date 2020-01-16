@@ -65,6 +65,10 @@ Le tracce sono contenute nel file [**Temi d'esame Algoritmi e Programmazione.pdf
 
 [Soluzione Alterntiva](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/03Settembre2014es2-12pt-versione2.c) - coccocarmiano
 
+### es3
+
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/03Settembre2014es3-12pt.c) - coccocarmiano
+
 -------------------------------------------------
 # 31 Gennaio 2019 
 ### parte da 12 punti
