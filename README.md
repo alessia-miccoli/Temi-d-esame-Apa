@@ -43,6 +43,7 @@ Le tracce sono contenute nel file [**Temi d'esame Algoritmi e Programmazione.pdf
 -----------------------------------------------
 ## es2 - parte da 12 punti 
 [Soluzione v1](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/27Giugno2014es2-12pt.c) - alessia-miccoli
+
 [Soluzione v2](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/27Giugno2014es2-12pt%20(v%20alternativa).c) - coccocarmiano
 
 -----------------------------------------------
