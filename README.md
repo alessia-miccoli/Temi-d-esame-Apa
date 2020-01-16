@@ -8,7 +8,7 @@ Le tracce sono contenute nel file [**Temi d'esame Algoritmi e Programmazione.pdf
 ---------------------------------------------
 
 # 06 Febbraio 2014 
-## parte da 12 punti
+### parte da 12 punti
 
 ### es1
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/06Febbraio2014es1-12pt.c) - alessia-miccoli
@@ -21,7 +21,7 @@ Le tracce sono contenute nel file [**Temi d'esame Algoritmi e Programmazione.pdf
 
 -----------------------------------------------
 # 24 Febbraio 2014 
-## parte da 12 punti
+### parte da 12 punti
 
 ### es1 
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/24Febbraio2014es1-12pt.c) - alessia-miccoli
@@ -34,7 +34,7 @@ Le tracce sono contenute nel file [**Temi d'esame Algoritmi e Programmazione.pdf
 
 -----------------------------------------------
 # 27 Giugno 2014 
-## parte da 12 punti
+### parte da 12 punti
 
 ### es1 
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/27Giugno2014es1-12pt.c) - alessia-miccoli
@@ -49,7 +49,7 @@ Le tracce sono contenute nel file [**Temi d'esame Algoritmi e Programmazione.pdf
 
 -------------------------------------------------
 # 03 Settembre 2014
-## parte da 12 punti
+### parte da 12 punti
 
 ### es1
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/03Settembre2014es1-12pt.c) - alessia-miccoli
@@ -59,7 +59,7 @@ Le tracce sono contenute nel file [**Temi d'esame Algoritmi e Programmazione.pdf
 
 -------------------------------------------------
 # 31 Gennaio 2019 
-## parte da 12 punti
+### parte da 12 punti
 
 ### es3
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/31Gennaio2019es3-12pt.c) - Gianluca
