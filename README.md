@@ -53,6 +53,11 @@ Man mano che svolgo gli esercizi aggiorno il repo.
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/27Giugno2014es3-12pt.c) - coccocarmiano
 
 -------------------------------------------------
+### 03 Settembre 2014 es1 - parte da 12 punti 
+
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/03Settembre2014es1-12pt.c) - alessia-miccoli
+
+-------------------------------------------------
 ### 31 Gennaio 2019 es3 - parte da 12 punti
 
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/31Gennaio2019es3-12pt.c) - Gianluca
