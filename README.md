@@ -78,11 +78,11 @@ Le tracce sono contenute nel file [**Temi d'esame Algoritmi e Programmazione.pdf
 ### Es1
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/02Febbario2015es1-12pt.c) - coccocarmiano
 
-Non mi piace particolarmenre, quindi se qualcuno ne vuole fare un'altra versione meglio
+Non mi piace particolarmente, quindi se qualcuno ne vuole fare un'altra versione, meglio
 
 ### Es2
 
-[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/02Febbario2015es2-12pt.c) - coccoarmiano
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/02Febbario2015es2-12pt.c) - coccocarmiano
 
 ### Es3
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/02Febbario2015es3-12pt.c) - coccoarmiano
