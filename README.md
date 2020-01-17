@@ -90,6 +90,16 @@ Non mi piace particolarmente, quindi se qualcuno ne vuole fare un'altra versione
 [Soluzione 2](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/02Febbraio2015es3-12pt-versione2.c) - Gianluca
 
 -------------------------------------------------
+
+# 2 Settembre 2015
+
+### Parte da 12 punti
+
+### Es1
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/02Settembre2015es1-12pt.c) - Gianluca
+
+-------------------------------------------------
+
 # 31 Gennaio 2019 
 ### parte da 12 punti
 
