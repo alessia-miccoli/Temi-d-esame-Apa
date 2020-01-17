@@ -85,7 +85,7 @@ Non mi piace particolarmente, quindi se qualcuno ne vuole fare un'altra versione
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/02Febbario2015es2-12pt.c) - coccocarmiano
 
 ### Es3
-[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/02Febbario2015es3-12pt.c) - coccoarmiano
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/02Febbario2015es3-12pt.c) - coccocarmiano
 
 -------------------------------------------------
 # 31 Gennaio 2019 
