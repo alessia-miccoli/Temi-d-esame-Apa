@@ -70,6 +70,24 @@ Le tracce sono contenute nel file [**Temi d'esame Algoritmi e Programmazione.pdf
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/03Settembre2014es3-12pt.c) - coccocarmiano
 
 -------------------------------------------------
+
+# 2 Febbraio 2015
+
+### Parte da 12 punti
+
+### Es1
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/02Febbario2015es1-12pt.c) - coccocarmiano
+
+Non mi piace particolarmenre, quindi se qualcuno ne vuole fare un'altra versione meglio
+
+### Es2
+
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/02Febbario2015es2-12pt.c) - coccoarmiano
+
+### Es3
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/02Febbario2015es3-12pt.c) - coccoarmiano
+
+-------------------------------------------------
 # 31 Gennaio 2019 
 ### parte da 12 punti
 
