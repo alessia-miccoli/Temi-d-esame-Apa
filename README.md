@@ -100,6 +100,9 @@ Non mi piace particolarmente, quindi se qualcuno ne vuole fare un'altra versione
 ### es1
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/23Febbraio2015es1-12pt.c) - alessia-miccoli
 
+### es2
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/23Febbraio2015es2-12pt.c) - alessia-miccoli
+
 -------------------------------------------------
 
 # 2 Settembre 2015
