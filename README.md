@@ -93,21 +93,21 @@ Non mi piace particolarmente, quindi se qualcuno ne vuole fare un'altra versione
 
 -------------------------------------------------
 
-# 2 Settembre 2015
-
-### Parte da 12 punti
-
-### es1
-[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/02Settembre2015es1-12pt.c) - Gianluca
-
--------------------------------------------------
-
 # 23 Febbraio 2015
 
 ### Parte da 12 punti
 
 ### es1
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/23Febbraio2015es1-12pt.c) - alessia-miccoli
+
+-------------------------------------------------
+
+# 2 Settembre 2015
+
+### Parte da 12 punti
+
+### es1
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/02Settembre2015es1-12pt.c) - Gianluca
 
 -------------------------------------------------
 
