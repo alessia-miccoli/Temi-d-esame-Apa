@@ -3,9 +3,9 @@
 
 Le tracce sono contenute nel file [**Temi d'esame Algoritmi e Programmazione.pdf**](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/Temi%20d'esame%20Algoritmi%20e%20Programmazione.pdf) - consiglio di fare il download perchè a caricarlo su github ci mette una vita.
 
-### **! WORK IN PROGRESS !**
+###  ** WORK IN PROGRESS !**
 
-# COME COLLABORARE:
+# COME COLLABORARE 😃
 
 - Cliccare sul pulsante **create new file**
 - Una volta copiato il codice nell'editor rinominare il file come segue: 'gg/Mese/aaaa-esK' dove K è il numero dell'esercizio, seguito da '-12pt.c' per la parte da 12 punti e '-18pt.c' per la parte da 18 punti. Se c'è già una versione dello stesso tema d'esame inserire prima dell'estensione '-versioneN' dove N è il numero della versione. *Esempio: '30Gennaio2019es2-12pt-versione2.c'*.
@@ -103,6 +103,9 @@ Non mi piace particolarmente, quindi se qualcuno ne vuole fare un'altra versione
 
 ### es2
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/23Febbraio2015es2-12pt.c) - alessia-miccoli
+
+### es3
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/23Febbraio2015es3-12pt.c) - alessia-miccoli
 
 -------------------------------------------------
 
