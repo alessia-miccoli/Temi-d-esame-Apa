@@ -24,7 +24,9 @@ Le tracce sono contenute nel file [**Temi d'esame Algoritmi e Programmazione.pdf
 [Soluzione 2](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/06Febbraio2014es1-12pt-versione2.c) - Gianluca
 
 ### es2
-[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/06Febbraio2014es2-12pt.c) - alessia-miccoli
+[Soluzione 1](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/06Febbraio2014es2-12pt.c) - alessia-miccoli
+
+[Soluzione 2](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/06Febbraio2014es2-12pt-versione2.c) - Gianluca
 
 ### es3
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/06Febbraio2014es3-12pt.c) - alessia-miccoli
