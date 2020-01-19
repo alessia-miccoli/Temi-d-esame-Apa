@@ -153,7 +153,20 @@ Da fare
 Da fare
 
 -------------------------------------------------
+# 26 Gennaio 2016
 
+### Parte da 12 punti
+
+### es1
+Da fare
+
+### es2
+Da fare
+
+### es3
+Da fare
+
+-------------------------------------------------
 # 22 Febbraio 2016
 
 ### Parte da 12 punti
@@ -168,7 +181,90 @@ Da fare
 Da fare
 
 -------------------------------------------------
+# 14 Giugno 2016
 
+### Parte da 12 punti
+
+### es1
+Da fare
+
+### es2
+Da fare
+
+### es3
+Da fare
+
+-------------------------------------------------
+# 9 Settembre 2016
+
+### Parte da 12 punti
+
+### es1
+Da fare
+
+### es2
+Da fare
+
+### es3
+Da fare
+
+-------------------------------------------------
+# 4 Febbraio 2017
+
+### Parte da 12 punti
+
+### es1
+Da fare
+
+### es2
+Da fare
+
+### es3
+Da fare
+
+-------------------------------------------------
+# 22 Febbraio 2017
+
+### Parte da 12 punti
+
+### es1
+Da fare
+
+### es2
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/22Febbraio2017es2-12pt.c) - Gianluca
+
+### es3
+Da fare
+
+-------------------------------------------------
+# 26 Giugno 2017
+
+### Parte da 12 punti
+
+### es1
+Da fare
+
+### es2
+Da fare
+
+### es3
+Da fare
+
+-------------------------------------------------
+# 18 Settembre 2017
+
+### Parte da 12 punti
+
+### es1
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/18Settembre2017es1-12pt.c) - Gianluca
+
+### es2
+Da fare
+
+### es3
+Da fare
+
+-------------------------------------------------
 # 31 Gennaio 2019 
 ### parte da 12 punti
 
