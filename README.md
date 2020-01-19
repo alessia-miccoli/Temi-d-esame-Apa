@@ -131,7 +131,7 @@ Non mi piace particolarmente, quindi se qualcuno ne vuole fare un'altra versione
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/16Giugno2015es2-12pt.c) - alessia-miccoli 
 
 ### es3
-Da fare
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/16Giugno2015es3-12pt.c) - alessia-miccoli
 
 -------------------------------------------------
 
