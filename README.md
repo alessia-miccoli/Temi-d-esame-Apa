@@ -150,6 +150,21 @@ Da fare
 
 -------------------------------------------------
 
+# 22 Febbraio 2016
+
+### Parte da 12 punti
+
+### es1
+Da fare
+
+### es2
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/22Febbraio2016es2-12pt.c) - Gianluca
+
+### es3
+Da fare
+
+-------------------------------------------------
+
 # 31 Gennaio 2019 
 ### parte da 12 punti
 
