@@ -58,6 +58,8 @@ Le tracce sono contenute nel file [**Temi d'esame Algoritmi e Programmazione.pdf
 
 [Soluzione 2](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/27Giugno2014es2-12pt%20(v%20alternativa).c) - coccocarmiano
 
+[Soluzione 3](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/27Giugno2014es2-12pt-versione3.c) - Gianluca
+
 ### es3
 [Soluzione 1](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/27Giugno2014es3-12pt.c) - coccocarmiano
 
