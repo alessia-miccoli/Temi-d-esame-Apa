@@ -19,7 +19,7 @@ Le tracce sono contenute nel file [**Temi d'esame Algoritmi e Programmazione.pdf
 ### parte da 12 punti
 
 ### es1
-[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/06Febbraio2014es1-12pt.c) - alessia-miccoli
+[Soluzione 1](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/06Febbraio2014es1-12pt.c) - alessia-miccoli
 
 [Soluzione 2](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/06Febbraio2014es1-12pt-versione2.c) - Gianluca
 
