@@ -120,12 +120,33 @@ Non mi piace particolarmente, quindi se qualcuno ne vuole fare un'altra versione
 
 -------------------------------------------------
 
+# 16 Giugno 2015
+
+### Parte da 12 punti
+
+### es1
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/16Giugno2015es1-12pt.c) - alessia-miccoli
+
+### es2
+Da fare 
+
+### es3
+Da fare
+
+-------------------------------------------------
+
 # 2 Settembre 2015
 
 ### Parte da 12 punti
 
 ### es1
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/02Settembre2015es1-12pt.c) - Gianluca
+
+### es2
+Da fare
+
+### es3
+Da fare
 
 -------------------------------------------------
 
