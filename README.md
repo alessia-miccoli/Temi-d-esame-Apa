@@ -125,7 +125,9 @@ Non mi piace particolarmente, quindi se qualcuno ne vuole fare un'altra versione
 ### Parte da 12 punti
 
 ### es1
-[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/16Giugno2015es1-12pt.c) - alessia-miccoli
+[Soluzione 1](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/16Giugno2015es1-12pt.c) - alessia-miccoli
+
+[Soluzione 2](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/16Giugno2015es1-12pt-versione2.c) - Gianluca
 
 ### es2
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/16Giugno2015es2-12pt.c) - alessia-miccoli 
