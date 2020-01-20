@@ -314,9 +314,21 @@ Da fare
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/31Gennaio2019es1-12pt.c) - Gianluca
 
 ### es2
-
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/31Gennaio2019es2-12pt.c) - Gianluca
 
 ### es3
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/31Gennaio2019es3-12pt.c) - Gianluca
+
+-------------------------------------------------
+# 22 Febbraio 2019 
+### parte da 12 punti
+
+### es1
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/22Febbraio2019es1-12pt.c) - Gianluca
+
+### es2
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/22Febbraio2019es2-12pt.c) - Gianluca
+
+### es3
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/22Febbraio2019es3-12pt.c) - Gianluca
 
