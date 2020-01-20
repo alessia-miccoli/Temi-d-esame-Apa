@@ -265,6 +265,48 @@ Da fare
 Da fare
 
 -------------------------------------------------
+# 29 Gennaio 2018
+
+### Parte da 12 punti
+
+### es1
+Da fare
+
+### es2
+Da fare
+
+### es3
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/29Gennaio2018es3-12pt.c) - Gianluca
+
+-------------------------------------------------
+# 21 Giugno 2018
+
+### Parte da 12 punti
+
+### es1
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/21Giugno2018es1-12pt.c) - Gianluca
+
+### es2
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/21Giugno2018e2-12pt.c) - Gianluca (forse da rivedere)
+
+### es3
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/21Giugno2018es3-12pt.c) - Gianluca
+
+-------------------------------------------------
+# 13 Settembre 2018
+
+### Parte da 12 punti
+
+### es1
+Da fare
+
+### es2
+Da fare
+
+### es3
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/13Settemre2018es3-12pt.c) - Gianluca
+
+-------------------------------------------------
 # 31 Gennaio 2019 
 ### parte da 12 punti
 
