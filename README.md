@@ -200,7 +200,7 @@ Da fare
 ### Parte da 12 punti
 
 ### es1
-Da fare
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/09Settembre2016es1-12pt.c) - alessia-miccoli
 
 ### es2
 Da fare
