@@ -1,57 +1,59 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//typedef int Key;
+#define N 3
+#define M N
 
-typedef struct node_t {
-	int key;
-	struct node_t* left;
-	struct node_t* right;
-} node;
-
-node* nodo(int key, node* left, node* right){
-	node* r = malloc(sizeof(node));
-	r->key = key;
-	r->left = left;
-	r->right = right;
-	return r;
-}
-
-node* treeUno(){
-	node* t0, *t1, *t2; //Albero semplice
-	t2 = nodo(2, NULL, NULL);
-	t1 = nodo(1, NULL, NULL);
-	t0 = nodo(0, t1, t2);
-	
-	return t0;
-}
-
-node* treeDue(){
-	node* t0, *t1, *t2; //Albero semplice
-	t2 = nodo(2, NULL, NULL);
-	t1 = nodo(1, NULL, NULL);
-	t0 = nodo(5, t1, t2);
-	return t0;
-}
-
-int TREEisomorph(node* t1, node* t2){
-	if (t2 == NULL){
-		if (t1 == NULL) return 1;
-		else return 0;
-	}
-	if (t1 == NULL) return 0;
-	
-	if(t1->key == t2->key)
-		return TREEisomorph(t1->left, t2->left)
-			&& TREEisomorph(t1->right, t2->right);
-	return 0;
-}
+void bestPath(int x, int y, int step, int* path, int* bestLen, int* bestVal, int* bestPathS, int maxX, int maxY, int values[N][M], int mark[N][M]);
 
 int main(int argc, char **argv)
 {
-	printf("%d %d %d",
-	TREEisomorph(treeUno(), treeUno()),
-	TREEisomorph(treeUno(), treeDue()),
-	TREEisomorph(treeUno(), NULL));
+	int values[N][M] = 
+	{ {1, 2, -3}, {9, -9, 7}, {0, 1, 4}};
+	int mark[N][M] = {0};
+	int path[N*M] = {0}; int bestPathS[N*M] = {0};
+	int bestLen = N*M+1, bestVal = -1;
+	
+	bestPath(0, 0, 0, path, &bestLen, &bestVal, bestPathS, N, M, values, mark);
+	
+	printf("Soluzione: ");
+	for(int i=0; i<bestLen; i++) printf("%d ", bestPathS[i]);
 	printf("\n");
+	printf("Somma: %d Lunghezza: %d\n", bestVal, bestLen);
+	
+	return 420;
+}
+
+void bestPath(int x, int y, int step, int* path, int* bestLen, int* bestVal, int* bestPathS, int maxX, int maxY, int values[N][M], int mark[N][M]){
+	int i, val;
+	if (x == maxX)
+		if (y == maxY){
+			// Vedere se la cosa migliora
+			val = 0;
+			for(i=0; i<step; i++) val += path[i];
+			if (val > *bestVal || (val == *bestVal && step < *bestLen) ){
+				*bestVal = val;
+				*bestLen = step;
+				for(i=0; i<step; i++) bestPathS[i] = path[i];
+			}
+			return;
+		}
+	if (x < 0) return;
+	if (y < 0) return;
+	if (x > maxX) return;
+	if (y > maxY) return;
+	if (mark[y][x] == 0){
+		mark[y][x] = 1;
+		path[step] = values[y][x];
+		bestPath(x+1, y, step+1, path, bestLen, bestVal, bestPathS, maxX, maxY, values, mark);
+		bestPath(x, y+1, step+1, path, bestLen, bestVal, bestPathS, maxX, maxY, values, mark);
+		bestPath(x-1, y, step+1, path, bestLen, bestVal, bestPathS, maxX, maxY, values, mark);
+		bestPath(x, y-1, step+1, path, bestLen, bestVal, bestPathS, maxX, maxY, values, mark);
+		
+		bestPath(x+1, y+1, step+1, path, bestLen, bestVal, bestPathS, maxX, maxY, values, mark);
+		bestPath(x+1, y-1, step+1, path, bestLen, bestVal, bestPathS, maxX, maxY, values, mark);
+		bestPath(x-1, y+1, step+1, path, bestLen, bestVal, bestPathS, maxX, maxY, values, mark);
+		bestPath(x-1, y-1, step+1, path, bestLen, bestVal, bestPathS, maxX, maxY, values, mark);
+		mark[y][x] = 0;
+	}
 }
