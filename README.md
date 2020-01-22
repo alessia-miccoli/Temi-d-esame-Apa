@@ -120,7 +120,7 @@ Non mi piace particolarmente, quindi se qualcuno ne vuole fare un'altra versione
 ### es3
 [Soluzione 1](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/23Febbraio2015es3-12pt.c) - alessia-miccoli
 
-[Soluzione 2 (Senza Vettore dei Caratteri)](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/23Febbario2015es3-12ptv2.c) - coccoarmiano
+[Soluzione 2 (Senza Vettore dei Caratteri)](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/23Febbario2015es3-12ptv2.c) - coccocarmiano
 
 -------------------------------------------------
 
@@ -149,10 +149,10 @@ Non mi piace particolarmente, quindi se qualcuno ne vuole fare un'altra versione
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/02Settembre2015es1-12pt.c) - Gianluca
 
 ### es2
-Da fare
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/02Settembre2015es2-12pt.c) - coccocarmiano
 
 ### es3
-Da fare
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/02Settembre2015es3-12pt.c) - coccocarmiano
 
 -------------------------------------------------
 # 26 Gennaio 2016
