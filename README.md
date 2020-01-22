@@ -179,6 +179,10 @@ Da fare
 ### es2
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/22Febbraio2016es2-12pt.c) - Gianluca
 
+[Soluzione Iterativa Alternativa](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/22Febbraio2016es2-12pt_iterative.c) - coccocarmiano
+
+[Soluzione Ricorsiva (Wrapper)](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/22Febbraio2016es2-12pt_wrapper.c) - coccocarmiano
+
 ### es3
 Da fare
 
