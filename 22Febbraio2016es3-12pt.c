@@ -57,6 +57,7 @@ int tutteAccese(int controls[N][M], int* soluzione, int n, int m){
 				if(controls[i][j])
 					candele[j] = !candele[j];
 	for(i=0; i<n; i++)
-		if(!candele[i]) return 0;
+		if(!candele[i]) { free(candele); return 0; }
+	free(candele);
 	return 1;
 }
