@@ -184,7 +184,7 @@ Da fare
 [Soluzione Ricorsiva (Wrapper)](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/22Febbraio2016es2-12pt_wrapper.c) - coccocarmiano
 
 ### es3
-Da fare
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/22Febbraio2016es3-12pt.c) - coccocarmiano
 
 -------------------------------------------------
 # 14 Giugno 2016
