@@ -344,6 +344,7 @@ Da fare
 
 ### es3
 [Soluzione 1](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/22Febbraio2019es3-12pt.c) - Gianluca
+
 [Soluzione2](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/22Febbraio2019es3-12pt-versione2.c) - alessia-miccoli
 
 -------------------------------------------------
