@@ -353,7 +353,7 @@ Da fare
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/02Luglio2019es1-12pt.c) - alessia-miccoli
 
 ### es2
-Da fare
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/02Luglio2019es2-12pt.c) - alessia-miccoli
 
 ### es3
 Da fare
