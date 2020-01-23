@@ -208,11 +208,16 @@ Da fare
 ### es1
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/09Settembre2016es1-12pt.c) - alessia-miccoli
 
+[Soluzione 2](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/09Settembere2016es1v2-12pt.c) - coccocarmiano
+
 ### es2
-Da fare
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/09Settembere2016es2-12pt.c) - coccocarmiano
 
 ### es3
-Da fare
+
+[Soluzione Buggata](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/09Settembere2016es3_bug-12pt.c) - coccocarmiano
+
+Nonostante il codice sia identico alle slide il secondo set di combinazioni non funziona.
 
 -------------------------------------------------
 # 4 Febbraio 2017
@@ -220,13 +225,13 @@ Da fare
 ### Parte da 12 punti
 
 ### es1
-Da fare
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/04Febbraio2017es1-12pt.c) - coccocarmiano
 
 ### es2
-Da fare
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/04Febbraio2017es2-12pt.c) - coccocarmiano
 
 ### es3
-Da fare
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/04Febbraio2017es3-12pt.c) - coccocarmiano
 
 -------------------------------------------------
 # 22 Febbraio 2017
