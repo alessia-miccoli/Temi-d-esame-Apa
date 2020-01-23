@@ -342,4 +342,15 @@ Da fare
 
 ### es3
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/22Febbraio2019es3-12pt.c) - Gianluca
+-------------------------------------------------
+# 2 Luglio 2019 
+### parte da 12 punti
 
+### es1
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/02Luglio2019es1-12pt.c) - alessia-miccoli
+
+### es2
+Da fare
+
+### es3
+Da fare
