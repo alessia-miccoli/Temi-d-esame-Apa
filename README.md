@@ -255,13 +255,13 @@ Nonostante il codice sia identico alle slide il secondo set di combinazioni non 
 ### Parte da 12 punti
 
 ### es1
-Da fare
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/26Giugno2017es1-12pt.c) - coccocarmian
 
 ### es2
-Da fare
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/26Giugno2017es2-12pt.c) - coccocarmian
 
 ### es3
-Da fare
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/26Giugno2017es3-12pt.c) - coccocarmian
 
 -------------------------------------------------
 # 18 Settembre 2017
@@ -271,8 +271,10 @@ Da fare
 ### es1
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/18Settembre2017es1-12pt.c) - Gianluca
 
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/18Settembre2017es1-12ptv2.c) - coccocarmiano
+
 ### es2
-Da fare
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/18Settembre2017es2-12pt.c) - coccoarmiano
 
 ### es3
 Da fare
