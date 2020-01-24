@@ -334,6 +334,8 @@ Da fare
 ### es3
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2019/Appello%201/31Gennaio2019es3-12pt.c) - Gianluca
 
+[Soluzione con powerset](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2019/Appello%201/31Gennaio2019es3-12pt_powerset.c) - @andreademasi
+
 -------------------------------------------------
 # 22 Febbraio 2019 
 ### parte da 12 punti
