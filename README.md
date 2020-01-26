@@ -166,7 +166,7 @@ Da fare
 Da fare
 
 ### es3
-Da fare
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2016/Appello%201/26Gennaio2016es3-12pt.c) - alessia-miccoli
 
 -------------------------------------------------
 # 22 Febbraio 2016
