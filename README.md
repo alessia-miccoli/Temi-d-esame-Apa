@@ -293,6 +293,8 @@ Da fare
 ### es3
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2018/Appello%201/29Gennaio2018es3-12pt.c) - Gianluca
 
+[Soluzione 2](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2018/Appello%201/29Gennaio2018es3-12pt-versione2.c) - alessia-miccoli
+
 -------------------------------------------------
 # 21 Giugno 2018
 
