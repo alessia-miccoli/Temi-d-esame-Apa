@@ -336,7 +336,7 @@ Da fare
 ### es3
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2019/Appello%201/31Gennaio2019es3-12pt.c) - Gianluca
 
-[Soluzione con powerset](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2019/Appello%201/31Gennaio2019es3-12pt_powerset.c) - @andreademasi
+[Soluzione con powerset](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2019/Appello%201/31Gennaio2019es3-12pt_powerset.c) - [@andreademasi](https://github.com/andreademasi)
 
 -------------------------------------------------
 # 22 Febbraio 2019 
@@ -363,7 +363,7 @@ Da fare
 ### es2
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2019/Appello%201/02Luglio2019es2-12pt.c) - alessia-miccoli
 
-[Soluzione alternativa](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2019/Appello%201/02Luglio2019es2-12pt_v2.c) - @andreademasi
+[Soluzione alternativa](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2019/Appello%201/02Luglio2019es2-12pt_v2.c) - [@andreademasi](https://github.com/andreademasi)
 
 ### es3
 Da fare
