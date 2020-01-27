@@ -331,7 +331,8 @@ Da fare
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2019/Appello%201/31Gennaio2019es1-12pt.c) - Gianluca
 
 ### es2
-[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2019/Appello%201/31Gennaio2019es2-12pt.c) - Gianluca
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2019/Appello%201/31Gennaio2019es2-12pt.c) - Gianluca 
+⚠ ci siamo accorti che questa soluzione non appartiene a questo tema d'esame, se qualcuno sapesse a quale tema d'esame si riferisce ce lo faccia sapere così da metterlo nella subdirectory corretta! Grazie 😃
 
 ### es3
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2019/Appello%201/31Gennaio2019es3-12pt.c) - Gianluca
