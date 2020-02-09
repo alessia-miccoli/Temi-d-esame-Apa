@@ -285,15 +285,31 @@ Da fare
 ### Parte da 12 punti
 
 ### es1
-Da fare
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2018/Appello%201/29Gennaio2018es1-12pt.c) - Francesco Salentino
 
 ### es2
-Da fare
+[Soluzione2](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2018/Appello%201/29Gennaio2018es2-12pt.c) - Francesco Salentino
 
 ### es3
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2018/Appello%201/29Gennaio2018es3-12pt.c) - Gianluca
 
 [Soluzione 2](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2018/Appello%201/29Gennaio2018es3-12pt-versione2.c) - alessia-miccoli
+
+[Soluzione 3](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2018/Appello%201/29Gennaio2018es3-12pt-versione3.c) - Francesco Salentino
+
+-------------------------------------------------
+# 13 Febbraio 2018
+
+### Parte da 12 punti
+
+### es1
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2018/Appello%202/13Febbraio2018es1-12pt.c) - Francesco Salentino
+
+### es2
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/tree/master/2018/Appello%202/esercizio%202) - Francesco Salentino
+
+### es3
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2018/Appello%202/13Febbraio2018es3-12pt.c) - Francesco Salentino
 
 -------------------------------------------------
 # 21 Giugno 2018
