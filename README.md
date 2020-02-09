@@ -288,7 +288,7 @@ Da fare
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2018/Appello%201/29Gennaio2018es1-12pt.c) - Francesco Salentino
 
 ### es2
-[Soluzione2](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2018/Appello%201/29Gennaio2018es2-12pt.c) - Francesco Salentino
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2018/Appello%201/29Gennaio2018es2-12pt.c) - Francesco Salentino
 
 ### es3
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2018/Appello%201/29Gennaio2018es3-12pt.c) - Gianluca
