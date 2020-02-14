@@ -388,3 +388,16 @@ Da fare
 
 ### es3
 Da fare
+-------------------------------------------------
+# 28 Gennaio 2020
+### parte da 12 punti
+
+### es1
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2020/28Gennaio2020es1.c) - alessia-miccoli
+
+### es2
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2020/28Gennaio2020es2.c) - alessia-miccoli
+
+### es3
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2020/28Gennaio2020es3.c) - alessia-miccoli
+
