@@ -5,7 +5,7 @@ Le tracce sono contenute nel file [**Temi d'esame Algoritmi e Programmazione.pdf
 
 ###  ** WORK IN PROGRESS !**
 
-Come tracce degli esercizi per il 2020 per ora abbiamo questo:
+**Come tracce degli esercizi per il *2020* per ora abbiamo questo:**
 
 [Traccia esercizi da 12 punti - 28 Gennaio 2020](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2020/programmazione12punti28Gennaio2020.jpeg)
 
