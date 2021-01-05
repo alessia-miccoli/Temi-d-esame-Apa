@@ -181,7 +181,7 @@ Non mi piace particolarmente, quindi se qualcuno ne vuole fare un'altra versione
 ### Parte da 12 punti
 
 ### es1
-Da fare
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2016/Appello%202/22Febbraio2016es1-12pt.c) - wzjiujiu
 
 ### es2
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2016/Appello%202/22Febbraio2016es2-12pt.c) - Gianluca
@@ -189,6 +189,8 @@ Da fare
 [Soluzione Iterativa Alternativa](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2016/Appello%202/22Febbraio2016es2-12pt_iterative.c) - coccocarmiano
 
 [Soluzione Ricorsiva (Wrapper)](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2016/Appello%202/22Febbraio2016es2-12pt_wrapper.c) - coccocarmiano
+
+[Soluzione easy](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2016/Appello%202/22Febbraio2016es2-12pt_easyver.c) - wzjiujiu
 
 ### es3
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2016/Appello%202/22Febbraio2016es3-12pt.c) - coccocarmiano
@@ -199,13 +201,17 @@ Da fare
 ### Parte da 12 punti
 
 ### es1
-Da fare
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2016/Appello%203/14Giugno2016es1-12pt.c) -wzjiujiu
 
 ### es2
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2016/Appello%203/14Giugno2016es2-12pt.c) - alessia-miccoli
 
+[Soluzione (algebra puntatori)](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2016/Appello%203/14Giugno2016es2-12pt_algebra_puntatori.c) -wzjiujiu
+
 ### es3
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2016/Appello%203/14Giugno2016es3-12pt.c) - alessia-miccoli
+
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2016/Appello%203/14Giugno2016es3-12pt_ver2.c) - wzjiujiu
 
 -------------------------------------------------
 # 9 Settembre 2016
@@ -220,11 +226,15 @@ Da fare
 ### es2
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2016/Appello%204/09Settembere2016es2-12pt.c) - coccocarmiano
 
+[Soluzione 2](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2016/Appello%204/09Settembre2016es2-12pt_ver2.c) - wzjiujiu
+
 ### es3
 
 [Soluzione Buggata](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2016/Appello%204/09Settembere2016es3_bug-12pt.c) - coccocarmiano
 
 Nonostante il codice sia identico alle slide il secondo set di combinazioni non funziona.
+
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2016/Appello%204/09Settembre2016es3-12pt.c) - wzjiujiu
 
 -------------------------------------------------
 # 4 Febbraio 2017
@@ -234,11 +244,15 @@ Nonostante il codice sia identico alle slide il secondo set di combinazioni non 
 ### es1
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2017/Appello%201/04Febbraio2017es1-12pt.c) - coccocarmiano
 
+[Soluzione 2](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2017/Appello%201/04Febbraio2017es1_ver2-12pt.c) - wzjiujiu
+
 ### es2
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2017/Appello%201/04Febbraio2017es2-12pt.c) - coccocarmiano
 
 ### es3
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2017/Appello%201/04Febbraio2017es3-12pt.c) - coccocarmiano
+
+[Soluzione 2](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2017/Appello%201/04Febbraio2017es3_ver2-12pt.c) - wzjiujiu
 
 -------------------------------------------------
 # 22 Febbraio 2017
@@ -284,7 +298,9 @@ Nonostante il codice sia identico alle slide il secondo set di combinazioni non 
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2017/Appello%204/18Settembre2017es2-12pt.c) - coccoarmiano
 
 ### es3
-Da fare
+[Soluzione Powerset](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2017/Appello%204/18Settembre2017es2_ver_powerset-12pt.c) -wzjiujiu
+
+[Soluzione Grafo](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2017/Appello%204/18Settembre2017es3-12pt.c) - wzjiujiu
 
 -------------------------------------------------
 # 29 Gennaio 2018
