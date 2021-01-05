@@ -167,10 +167,10 @@ Non mi piace particolarmente, quindi se qualcuno ne vuole fare un'altra versione
 ### Parte da 12 punti
 
 ### es1
-Da fare
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2016/Appello%201/26Gennaio2016es1-12pt.c) - wzjiujiu
 
 ### es2
-Da fare
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2016/Appello%201/26Gennaio2016es2-12pt.c) - wzjiujiu
 
 ### es3
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2016/Appello%201/26Gennaio2016es3-12pt.c) - alessia-miccoli
