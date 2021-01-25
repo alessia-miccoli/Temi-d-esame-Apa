@@ -407,6 +407,20 @@ Da fare
 
 ### es3
 Da fare
+
+-------------------------------------------------
+# 18 Settembre 2019 
+### parte da 12 punti
+
+### es1
+Da fare
+
+### es2
+Da fare
+
+### es3
+Da fare
+
 -------------------------------------------------
 # 28 Gennaio 2020
 ### parte da 12 punti
