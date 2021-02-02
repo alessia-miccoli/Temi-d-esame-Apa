@@ -354,13 +354,14 @@ Nonostante il codice sia identico alle slide il secondo set di combinazioni non 
 ### Parte da 12 punti
 
 ### es1
-Da fare
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2018/Appello%204/13Settemre2018es1-12pt.c) - wzjiujiu
 
 ### es2
-Da fare
+[Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2018/Appello%204/13Settemre2018es2-12pt.c) - wzjiujiu
 
 ### es3
 [Soluzione](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2018/Appello%204/13Settemre2018es3-12pt.c) - Gianluca
+[Soluzione2](https://github.com/alessia-miccoli/Temi-d-esame-Apa/blob/master/2018/Appello%204/13Settemre2018es3-12pt_r.c) - wzjiujiu
 
 -------------------------------------------------
 # 31 Gennaio 2019 
