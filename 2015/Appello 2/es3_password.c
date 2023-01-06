@@ -58,3 +58,26 @@ void generatepasword(FILE *fout,int pos, char *alfabeto,char *numeri, int maxlen
         }
     }
 }
+
+/*
+Il codice proposto genera tutte le possibili password di 5 caratteri che soddisfano i requisiti specificati.
+
+La funzione initmark inizializza gli array di marcatori mark_alfabeto e mark_numeri con il valore di k, 
+che indica il numero massimo di volte che una lettera o una cifra possono comparire nella password.
+
+La funzione generatepasword utilizza la ricorsione per generare tutte le password possibili. 
+La funzione prende come parametri il file di output, la posizione corrente nella password,
+gli array di lettere e cifre disponibili, la lunghezza massima della password, l'array che rappresenta la password corrente, e gli array di marcatori.
+
+Se la posizione corrente è compresa tra 0 e 2 (ovvero se stiamo generando la prima, la seconda 
+o la terza lettera della password), la funzione prova tutte le lettere dell'alfabeto. 
+Se invece la posizione corrente è compresa tra 3 e 4 (ovvero se stiamo generando l'ultima 
+o l'ultima ma una cifra della password), la funzione prova tutte le cifre. In entrambi i casi,
+per ogni lettera o cifra scelta, la funzione decrementa il relativo marcatore e chiama se stessa 
+per generare le password successive. Al ritorno dalla chiamata ricorsiva, il marcatore viene incrementato di nuovo.
+
+Quando la posizione corrente raggiunge la lunghezza massima della password (5), la funzione stampa 
+la password corrente nel file di output e termina la ricorsione.
+
+
+*/
