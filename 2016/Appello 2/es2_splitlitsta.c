@@ -39,15 +39,22 @@ link split_list(int soglia,link L0,link *L2){
     while(tmp0!=NULL){
         if(tmp0->key < soglia){
             //lista 1
-            L1=newNode(L1,tmp0->key);
+            L1=listInsTail(L1,tmp0->key);
         }else{
             //lista 2
-            (*L2)=newNode((*L2),tmp0->key));
+            (*L2)=listInsTail((*L2),tmp0->key));
         }
         tmp0=tmp0->next;
     }
     return L1;
+}
 
+link listInsTail(link h, int val) {
+	link x;
+	if (h==NULL) return newNode(val, NULL);
+	for (x=h; x->next!=NULL; x=x->next);
+        x->next = newNode(val, NULL);
+        return h;
 }
 
 link newNode(link next,int val){
