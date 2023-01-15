@@ -75,11 +75,11 @@ struct Node* newNode(int data) {
 // funzione per visitare l'albero in modalità pre-order
 void postOrder(struct Node* actual,int *count,struct Node *dad) {
     int i;
-    if(actual == NULL) return;
-    for(i=0;i<N;i++) if(actual->children[i]!= NULL) actual->grado++;
-    printf("%d %d\n",actual->data,actual->grado);
-    if(dad!=NULL) if(actual->grado > dad->grado) (*count)++;
-    for(i=0; i<N; i++) postOrder(actual->children[i],count,actual);
+    if(actual == NULL) return; //se albero e vuoto o arrivo al figlio torno indietro 
+    for(i=0;i<N;i++) if(actual->children[i]!= NULL) actual->grado++; //vedo qual è il grado per ciascun nodo scorrendo su tutti gli eventuali figli
+    //printf("%d %d\n",actual->data,actual->grado);
+    if(dad!=NULL) if(actual->grado > dad->grado) (*count)++; //se il padre non è nullo, ossia NON sono nella radice, posso verificare se il nodo corrente ha un grado maggiore del padre, se si incremento contatore
+    for(i=0; i<N; i++) postOrder(actual->children[i],count,actual); //visita ricorsiva 
 }
 
 
