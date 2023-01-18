@@ -6,7 +6,22 @@
  *     struct TreeNode *right;
  * };
  
- provato su leetcode e funziona
+ //--------------------------
+ /* File BT.h* */
+ //typedef struct bt *BT
+
+/* File BT.c */
+//typedef struct node *link
+/*
+struct node{
+  int value;
+  link l, r;
+}
+
+struct bt{
+  link root, z;
+}
+ provato su leetcode e funziona */
  */
 
 void visitinorder(struct TreeNode* root,int *ordertree,int *k){
