@@ -27,7 +27,7 @@ void powerset_combsempl(int pos,int k,int *sol,int piattaforme[5],int P,int *sto
 
     if((*stop)==1) return;
 
-    if(pos>=P){ //riempito vettore sol 
+    if(pos>=k){ //riempito vettore sol 
         //for(i=0;i<k;i++) printf("%d ",sol[i]);
         if(check(sol,P,k)){
             (*stop)=1;
