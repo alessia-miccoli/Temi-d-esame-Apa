@@ -56,7 +56,7 @@ int solveR(char *str, char dict[8][5], int n, int k,int *sol,int pos,int term,in
     }
 
     for(i=0;i<n;i++){
-        if(mark[i]<k){
+        if(mark[i]<k){ //si può aggiungere del pruning, lo lascio vuoto, una idea potrebbe essere di controllare ogni volte le prima celle pos-esime per verificare che non ci sono incongruenze
             mark[i]++;
             sol[pos]=i;
             if(solveR(str,dict,n,k,sol,pos+1,term,mark)) return 1;
