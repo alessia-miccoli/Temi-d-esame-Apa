@@ -1,11 +1,5 @@
 #include "T.h"
-typedef struct node *link;
 
-struct node{
-    int data;
-    link *children;
-    int N;
-};
 
 struct tree{
     link root;
