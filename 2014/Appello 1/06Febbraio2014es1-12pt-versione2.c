@@ -20,7 +20,9 @@ int main(){
 free(d);
 return 0;
 }
-
+/*
+devo semplicemente creare un vettore e poi inserisco man mano tutti i valori partento dalla posizione 0 dima-1 , dima-dima+dimb-1 e dimb+dima dimb+dima+dimc-1
+*/
 int *merge_mia(int *v1,int *v2,int *v3,int dim_a,int dim_b,int dim_c){
 int *d=malloc((dim_a+dim_b+dim_c)*sizeof(int));
 int i;
